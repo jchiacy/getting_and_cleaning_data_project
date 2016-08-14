@@ -3,7 +3,7 @@ rm(list=ls())
 
 # 1. Merge the training and the test sets to create one data set.
 # setting the working directory where dataset was unzipped
-setwd('D:/All files/applications/R/coursera/data/UCI HAR Dataset/');
+setwd('~/data/UCI HAR Dataset/');
 
 # Reading the data from the training files
 # importing the txt file
